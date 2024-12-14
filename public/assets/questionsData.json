@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Ngai nuu?",
+    "answers": [
+      {
+        "text": "Ngai ni veva, nde mwambiliilyo kana mumunukilyo.",
+        "scriptures": ["John 3:16", "Luka 24:29", "Savuli 90:2"]
+      },
+      {
+        "text": "Ngai ni mumbi, niwoombie syindu syonthe na ndeto sya utonyi wake mweene.",
+        "scriptures": ["Mwambiliilyo 1:1", "Aevelania 11:3", "Yoana 1:3"]
+      },
+      {
+        "text": "Ngai ni wendo.",
+        "scriptures": ["Yoana 3:16", "1 Yoana 4:8"]
+      }
+    ]
+  },
+  {
+    "question": "Tumanyaa ta kana ngai niwendete andu onthe?",
+    "answers": [
+      {
+        "text": "Nitwisi kan ngai niwendete andu onthe nundu niwamutumie mwana wake e umwe akw’e kwondu woo ni kana ala mamwitikilaa matonye kwithiwa na thayu utathela.",
+        "scriptures": ["Alomi 5:8", "Luka 53:6"]
+      }
+    ]
+  }
+]

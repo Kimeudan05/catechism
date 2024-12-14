@@ -1,0 +1,194 @@
+{
+  "Kilungu 1": {
+    "Questions on the Nature of God and Salvation": [
+      {
+        "question": "Mundu ula wendaa kuka kwa ngai evata wa kwika ata?",
+        "answers": [
+          {
+            "answer": "Mundu ula wendaa kuka kwa ngai no muvaka etikile kana we nivo ui na nungenae ituvi kwa asu ala mamumanthaa.",
+            "scriptures": ["John 11:6", "Isaia 55:6", "Uvuanyo 3:20"]
+          }
+        ]
+      },
+      {
+        "question": "Ni nzia yiva ila mundu utonya kuvika naypo kwa Ngai?",
+        "answers": [
+          {
+            "answer": "Nzia ila ya w’o ya mundu kuvika nayo kwa ngai ni yesu kliso mwiai waiti e 0 weka.",
+            "scriptures": [
+              "Yoana 14:6",
+              "Meko ma atumwa 4:12",
+              "1 Timotheo 2:5"
+            ]
+          }
+        ]
+      },
+      {
+        "question": "Kutonyeka ata mundu kumwitikila yesu kliso?",
+        "answers": [
+          {
+            "answer": "Ni kutonyeka mundu kumwitikila yesu yila wamina kwiw’a ndeto sya utangiio ila iandikitwe mbiviliani na kusyitikila.",
+            "scriptures": ["Alomi 10:7", "Yakovo 1:21", "Yoana 5:24"]
+          }
+        ]
+      },
+      {
+        "question": "Undu wa mbee Munene ula wikikaa kwa ula wamwitikila yesu klisto ni mwau?",
+        "answers": [
+          {
+            "answer": "Ula umwitikilaa yesu klisto kwithiwa mutangii wake okavindani kau niwosaa uekeo wan ai nundu wa nthakame ya klisto ila yetiwe ngelany’oni.",
+            "scriptures": ["Meko 10:43", "Yoana 1:29", "Aeveso 1:7"]
+          }
+        ]
+      },
+      {
+        "question": "Nikutonyeka Kumanyika kana ula umwitikilite yesu klisto kana w’o e na thayu utathela?",
+        "answers": [
+          {
+            "answer": "Ula umwitikilaa yesu klisto mwiai waitu numanyaa vate nzika kana e na thayu wa tene na tene nikwithiwa nutavitwe ou nthini wa maandiko matheu ma Ngai.",
+            "scriptures": ["1 Yoana 5:11-13", "Avilivi 1:6", "Yoana 3:36"]
+          }
+        ]
+      },
+      {
+        "question": "Yila mweene nai wamwitikila yesu klisto mutangii na uw’o niwosaa veva mutheu?",
+        "answers": [
+          {
+            "answer": "Ii. o ula umwitikailaa yesu klisto niwosaa veva mutheu o saani usu wamwitikila.",
+            "scriptures": ["Aeveso 1:13", "Meko 10:43-45"]
+          }
+        ]
+      },
+      {
+        "question": "Ni kutonyeka Mundu mweene nai kwitikithya wa kwitikilwa ni ngai kwondu wa kwika meko ma uthaithi kana kwianisya miao?",
+        "answers": [
+          {
+            "answer": "Aiee. Mwene nai nmdatonya kwitikithya wa kwitikilwa ni ngai kwondu wa useo wa meko ma ulungalu wake mweene.",
+            "scriptures": [
+              "Aeveso 2:8-9",
+              "Tito 3:5",
+              "Yoana 6:29",
+              "Alomi 5:8"
+            ]
+          }
+        ]
+      },
+      {
+        "question": "Yila mundu wamina kumwitikila yesu klisto ethiwe mutangii wake we nutonya kwaa ingi?",
+        "answers": [
+          {
+            "answer": "Aiee. Mbivilia imanyiasya kana ni mutangiie tene na tene.",
+            "scriptures": ["Yoana 10:27-28", "Alomi 8:38-39", "Aevelania 7:25"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 2": {
+    "Questions on Salvation in Christ": [
+      {
+        "question": "Ni ndeto ya kwekanya kwikila kwaviye kumany’a Yesu?",
+        "answers": [
+          {
+            "answer": "Yesu kliso ni undeto ya kwekanya kwikila kwa ng’ani yaku mwa Mulungu.",
+            "scriptures": ["Mark 1:15", "Matthew 4:17", "Luke 13:3"]
+          }
+        ]
+      },
+      {
+        "question": "Ni undu mwau wa vata kwa mwitikili ni kana ethiwe na vinya wa kikilya nai vinya kila muthenya?",
+        "answers": [
+          {
+            "answer": "Muklisto evata wa kwiyia ugu wa mwiao wa veva wa thayu nthini wa klisto yesu ni kana etonye kwithiwa emuthasye kuma mwiani wa nai na kikw’u.",
+            "scriptures": ["Alomi 8:2", "Aeveso 3:14-19", "1 Yoana 5:4-5"]
+          }
+        ]
+      },
+      {
+        "question": "Ethiwa mwitikili niwavaluka naini ve undungi wailwe ni kwika?",
+        "answers": [
+          {
+            "answer": "Ii, ethiwa muklisto niwavaluka naini niwailwe ni kumbula nai syake ana akiekewa.",
+            "scriptures": ["1 Yoana 1:9", "Yakovo 5:16", "Aeveso 4:26"]
+          }
+        ]
+      },
+      {
+        "question": "Mwitikili atonya ata kuwonaa utanu na muuo wa kwikalaa thayuni wake kila muthenya.",
+        "answers": [
+          {
+            "answer": "E vata wa kwinengane vyu kwa ngai veva mutheu.",
+            "scriptures": ["Alomi 12:1-2", "Vetelo 2:5"]
+          },
+          {
+            "answer": "E vata wa kwimanyisya na kusoma mbivilia kila muthenya.",
+            "scriptures": ["Savuli 119:9", "11", "105"]
+          },
+          {
+            "answer": "Niwailwe ni kumanyisya kuneena misoa ya maandiko atamyene.",
+            "scriptures": ["Akolosai 3:15", "1 Timotheo 3:15"]
+          },
+          {
+            "answer": "E vata wa kwithiawa na kimanyio kya kuvoya ivinda ina vate kuselewa.",
+            "scriptures": ["Daniyeli 6:10", "Yoana 15:16", "Savuli 55:17"]
+          },
+          {
+            "answer": "E vata wa kwithiawa na kimanyia sya kwinaa mbathi sya muikiio.",
+            "scriptures": ["Akolosai 3:16", "Aeveso 5:19", "Savuli 149:5"]
+          },
+          {
+            "answer": "Niwaile kwonany’a ukusi waw’o kw’onthe kula ui, na kwa ala wikalaa nao.",
+            "scriptures": ["Luka 8:39", "Meko 16:31", "Alomi 10:9-10"]
+          },
+          {
+            "answer": "E vata wa kwithiawa na muamba na etikili ala angi ma ikanisa.",
+            "scriptures": ["I Athesolanika 5:11", "Aevelania 3:13", "10:24-25"]
+          }
+        ]
+      },
+      {
+        "question": "Ethiwa asyai kana andu ma mundu uyu mwitikili makenda kumusiia thayuni w amuikiio akeeka ata?",
+        "answers": [
+          {
+            "answer": "No muvaka amwiw’e gai mbee wa kumew’a andu.",
+            "scriptures": ["Meko 5:29", "Savuli 27:10", "Isaia 49:15"]
+          },
+          {
+            "answer": "Ndatonya kwovaniw’a isyokini yimwe na ala mate etikili nthini wa maundu ta aa : unywi,kwina mbathi(ndanzi), nzaiko,kunywa’a sikala,ulaalai,kutwaana kwa nzia sya kivindu, na maundu angi ta asu.",
+            "scriptures": ["1 Akolintho 6:14-17"]
+          },
+          {
+            "answer": "Niwailwe ni kumenda kwa w’o andu ala make o na ethiwa mo ti etikili.",
+            "scriptures": ["Alomi 9:1-3"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 3": {
+    "Questions on the Church": [
+      {
+        "question": "Kuna liwa ya chilesha iley’o chingoro cha mulungu?",
+        "answers": [
+          {
+            "answer": "Chilesha cha mulungu chingoro ni kitundu kiikimw’e mutuku, kitunda kyaki na Kristu Yesu.",
+            "scriptures": ["Matthew 16:18", "Ephesians 2:19-22"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 4": {
+    "Questions on Christian Living": [
+      {
+        "question": "Kuna muenyeve wa kubakana kwa mulungu miteme kundu?",
+        "answers": [
+          {
+            "answer": "Muonyeve wa kubakana wa mulungu miteme kundu ni kujifunga na Kristu Yesu.",
+            "scriptures": ["Romans 6:4", "Philippians 3:10"]
+          }
+        ]
+      }
+    ]
+  }
+}

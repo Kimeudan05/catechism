@@ -3,6 +3,8 @@ import QuestionCard from "./components/QuestionCard";
 import axios from "axios";
 import "./tailwind.css";
 import Footer from "./components/Footer";
+import End from "./assets/End";
+import Introduction from "./assets/Introduction";
 
 const App = () => {
   const [questionsData, setQuestionsData] = useState([]);
@@ -30,7 +32,8 @@ const App = () => {
 
   return (
     <div className="p-6 container mx-auto lg:ml-12 row">
-      <h1 className="text-4xl font-bold text-center text-indigo-600 mb-8 ">
+      <Introduction />
+      <h1 className="text-4xl font-bold text-center text-black-600 mb-8 ">
         Kavuku ka Kilasi
       </h1>
 
@@ -60,6 +63,7 @@ const App = () => {
           )}
         </div>
       ))}
+      <End />
       <Footer />
     </div>
   );

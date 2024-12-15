@@ -29,14 +29,14 @@ const App = () => {
   }
 
   return (
-    <div className="p-6 container mx-auto lg:ml-12">
+    <div className="p-6 container mx-auto lg:ml-12 row">
       <h1 className="text-4xl font-bold text-center text-indigo-600 mb-8 ">
         Kavuku ka Kilasi
       </h1>
 
       {/* Loop through the different Kilungu sections */}
       {Object.entries(questionsData).map(([kilungu, sections], index) => (
-        <div key={index} className="mb-12">
+        <div key={index} className="mb-12 col-md-6">
           <h2 className="text-2xl font-semibold text-dark-800">{kilungu}</h2>
 
           {/* Loop through each section in the Kilungu */}

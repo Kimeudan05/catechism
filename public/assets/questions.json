@@ -2,7 +2,7 @@
   "Kilungu 1": {
     "MOMANYISYO MA SYANA NINI NTHINI WA KLISTO": [
       {
-        "question": "Mundu ula wendaa kuka kwa ngai evata wa kwika ata?",
+        "question": "1. Mundu ula wendaa kuka kwa ngai evata wa kwika ata?",
         "answers": [
           {
             "answer": "Mundu ula wendaa kuka kwa ngai no muvaka etikile kana we nivo ui na nungenae ituvi kwa asu ala mamumanthaa.",
@@ -11,7 +11,7 @@
         ]
       },
       {
-        "question": "Ni nzia yiva ila mundu utonya kuvika naypo kwa Ngai?",
+        "question": "2. Ni nzia yiva ila mundu utonya kuvika naypo kwa Ngai?",
         "answers": [
           {
             "answer": "Nzia ila ya w’o ya mundu kuvika nayo kwa ngai ni yesu kliso mwiai waiti e 0 weka.",
@@ -20,7 +20,7 @@
         ]
       },
       {
-        "question": "Kutonyeka ata mundu kumwitikila yesu kliso?",
+        "question": "3. Kutonyeka ata mundu kumwitikila yesu kliso?",
         "answers": [
           {
             "answer": "Ni kutonyeka mundu kumwitikila yesu yila wamina kwiw’a ndeto sya utangiio ila iandikitwe mbiviliani na kusyitikila.",
@@ -29,7 +29,7 @@
         ]
       },
       {
-        "question": "Undu wa mbee Munene ula wikikaa kwa ula wamwitikila yesu klisto ni mwau?",
+        "question": "4. Undu wa mbee Munene ula wikikaa kwa ula wamwitikila yesu klisto ni mwau?",
         "answers": [
           {
             "answer": "Ula umwitikilaa yesu klisto kwithiwa mutangii wake okavindani kau niwosaa uekeo wan ai nundu wa nthakame ya klisto ila yetiwe ngelany’oni.",
@@ -38,7 +38,7 @@
         ]
       },
       {
-        "question": "Nikutonyeka Kumanyika kana ula umwitikilite yesu klisto kana w’o e na thayu utathela?",
+        "question": "5. Nikutonyeka Kumanyika kana ula umwitikilite yesu klisto kana w’o e na thayu utathela?",
         "answers": [
           {
             "answer": "Ula umwitikilaa yesu klisto mwiai waitu numanyaa vate nzika kana e na thayu wa tene na tene nikwithiwa nutavitwe ou nthini wa maandiko matheu ma Ngai.",
@@ -47,7 +47,7 @@
         ]
       },
       {
-        "question": "Yila mweene nai wamwitikila yesu klisto mutangii na uw’o niwosaa veva mutheu?",
+        "question": "6. Yila mweene nai wamwitikila yesu klisto mutangii na uw’o niwosaa veva mutheu?",
         "answers": [
           {
             "answer": "Ii. o ula umwitikailaa yesu klisto niwosaa veva mutheu o saani usu wamwitikila.",
@@ -56,10 +56,10 @@
         ]
       },
       {
-        "question": "Ni kutonyeka Mundu mweene nai kwitikithya wa kwitikilwa ni ngai kwondu wa kwika meko ma uthaithi kana kwianisya miao?",
+        "question": "7. Ni kutonyeka Mundu mweene nai kwitikithya wa kwitikilwa ni ngai kwondu wa kwika Acts ma uthaithi kana kwianisya miao?",
         "answers": [
           {
-            "answer": "Aiee. Mwene nai nmdatonya kwitikithya wa kwitikilwa ni ngai kwondu wa useo wa meko ma ulungalu wake mweene.",
+            "answer": "Aiee. Mwene nai nmdatonya kwitikithya wa kwitikilwa ni ngai kwondu wa useo wa Acts ma ulungalu wake mweene.",
             "scriptures": [
               "Ephesians 2:8-9",
               "Titus 3:5",
@@ -70,7 +70,7 @@
         ]
       },
       {
-        "question": "Yila mundu wamina kumwitikila yesu klisto ethiwe mutangii wake we nutonya kwaa ingi?",
+        "question": "8. Yila mundu wamina kumwitikila yesu klisto ethiwe mutangii wake we nutonya kwaa ingi?",
         "answers": [
           {
             "answer": "Aiee. Mbivilia imanyiasya kana ni mutangiie tene na tene.",
@@ -83,16 +83,7 @@
   "Kilungu 2": {
     "MOMANYISYO WA MWIKALILE WA KILA MUTHENYA WA MUKLISTO": [
       {
-        "question": "Ni ndeto ya kwekanya kwikila kwaviye kumany’a Yesu?",
-        "answers": [
-          {
-            "answer": "Yesu kliso ni undeto ya kwekanya kwikila kwa ng’ani yaku mwa Mulungu.",
-            "scriptures": ["Mark 1:15", "Matthew 4:17", "Luke 13:3"]
-          }
-        ]
-      },
-      {
-        "question": "Ni undu mwau wa vata kwa mwitikili ni kana ethiwe na vinya wa kikilya nai vinya kila muthenya?",
+        "question": "1. Ni undu mwau wa vata kwa mwitikili ni kana ethiwe na vinya wa kikilya nai vinya kila muthenya?",
         "answers": [
           {
             "answer": "Muklisto evata wa kwiyia ugu wa mwiao wa veva wa thayu nthini wa klisto yesu ni kana etonye kwithiwa emuthasye kuma mwiani wa nai na kikw’u.",
@@ -101,60 +92,64 @@
         ]
       },
       {
-        "question": "Ethiwa mwitikili niwavaluka naini ve undungi wailwe ni kwika?",
+        "question": "2. Ethiwa mwitikili niwavaLuke naini ve undungi wailwe ni kwika?",
         "answers": [
           {
-            "answer": "Ii, ethiwa muklisto niwavaluka naini niwailwe ni kumbula nai syake ana akiekewa.",
+            "answer": "Ii, ethiwa muklisto niwavaLuke naini niwailwe ni kumbula nai syake ana akiekewa.",
             "scriptures": ["1 John 1:9", "James 5:16", "Ephesians 4:26"]
           }
         ]
       },
       {
-        "question": "Mwitikili atonya ata kuwonaa utanu na muuo wa kwikalaa thayuni wake kila muthenya.",
+        "question": "3. Mwitikili atonya ata kuwonaa utanu na muuo wa kwikalaa thayuni wake kila muthenya.",
         "answers": [
           {
-            "answer": "E vata wa kwinengane vyu kwa ngai veva mutheu.",
+            "answer": "a. E vata wa kwinengane vyu kwa ngai veva mutheu.",
             "scriptures": ["Romans 12:1-2", "1 Peter 2:5"]
           },
           {
-            "answer": "E vata wa kwimanyisya na kusoma mbivilia kila muthenya.",
+            "answer": "b. E vata wa kwimanyisya na kusoma mbivilia kila muthenya.",
             "scriptures": ["Psalms 119:9-11", "Psalms 119:105"]
           },
           {
-            "answer": "Niwailwe ni kumanyisya kuneena misoa ya maandiko atamyene.",
+            "answer": "c. Niwailwe ni kumanyisya kuneena misoa ya maandiko atamyene.",
             "scriptures": ["Colossians 3:15", "1 Timothy 3:15"]
           },
           {
-            "answer": "E vata wa kwithiawa na kimanyio kya kuvoya ivinda ina vate kuselewa.",
+            "answer": "d. E vata wa kwithiawa na kimanyio kya kuvoya ivinda ina vate kuselewa.",
             "scriptures": ["Daniel 6:10", "John 15:16", "Psalms 55:17"]
           },
           {
-            "answer": "E vata wa kwithiawa na kimanyia sya kwinaa mbathi sya muikiio.",
-            "scriptures": ["Akolosai 3:16", "Ephesians 5:19", "Psalms 149:5"]
+            "answer": "e. E vata wa kwithiawa na kimanyia sya kwinaa mbathi sya muikiio.",
+            "scriptures": ["Colossians 3:16", "Ephesians 5:19", "Psalms 149:5"]
           },
           {
-            "answer": "Niwaile kwonany’a ukusi waw’o kw’onthe kula ui, na kwa ala wikalaa nao.",
-            "scriptures": ["Luka 8:39", "Acts 16:31", "Romans 10:9-10"]
+            "answer": "f. Niwaile kwonany’a ukusi waw’o kw’onthe kula ui, na kwa ala wikalaa nao.",
+            "scriptures": ["Luke 8:39", "Acts 16:31", "Romans 10:9-10"]
           },
           {
-            "answer": "E vata wa kwithiawa na muamba na etikili ala angi ma ikanisa.",
-            "scriptures": ["I Thessalonians 5:11", "Hebrews 3:13", "10:24-25"]
+            "answer": "g. E vata wa kwithiawa na muamba na etikili ala angi ma ikanisa.",
+            "scriptures": [
+              "1 Thessalonians 5:11",
+              "Hebrews 3:13",
+              "Hebrews 10:24-25"
+            ]
           }
         ]
       },
       {
-        "question": "Ethiwa asyai kana andu ma mundu uyu mwitikili makenda kumusiia thayuni w amuikiio akeeka ata?",
+        "question": "4. Ethiwa asyai kana andu ma mundu uyu mwitikili makenda kumusiia thayuni w amuikiio akeeka ata?",
         "answers": [
           {
-            "answer": "No muvaka amwiw’e gai mbee wa kumew’a andu.",
+            "answer": "a. No muvaka amwiw’e Ngai mbee wa kumew’a andu.",
             "scriptures": ["Acts 5:29", "Psalms 27:10", "Isaiah 49:15"]
           },
           {
-            "answer": "Ndatonya kwovaniw’a isyokini yimwe na ala mate etikili nthini wa maundu ta aa : unywi,kwina mbathi(ndanzi), nzaiko,kunywa’a sikala,ulaalai,kutwaana kwa nzia sya kivindu, na maundu angi ta asu.",
+            "answer": "b. Ndatonya kwovaniw’a isyokini yimwe na ala mate etikili nthini wa maundu ta aa : unywi,kwina mbathi(ndanzi), nzaiko,kunywa’a sikala,ulaalai,kutwaana kwa nzia sya kivindu, na maundu angi ta asu.",
             "scriptures": ["1 corinthians 6:14-17"]
           },
           {
-            "answer": "Niwailwe ni kumenda kwa w’o andu ala make o na ethiwa mo ti etikili.",
+            "answer": "c. Niwailwe ni kumenda kwa w’o andu ala make o na ethiwa mo ti etikili.",
             "scriptures": ["Romans 9:1-3"]
           }
         ]
@@ -162,26 +157,962 @@
     ]
   },
   "Kilungu 3": {
-    "MOMANYISYO IULU WA NGAI ASA": [
+    "MOMANYISYO ÎÜLÜ WA NGAI ASA": [
       {
-        "question": "Kuna liwa ya chilesha iley’o chingoro cha mulungu?",
+        "question": "1. Ngai nuu?",
         "answers": [
           {
-            "answer": "Chilesha cha mulungu chingoro ni kitundu kiikimw’e mutuku, kitunda kyaki na Kristu Yesu.",
-            "scriptures": ["Matthew 16:18", "Ephesians 2:19-22"]
+            "answer": "a. Ngai ni Veva. Nde mwambililyo kana müminūkīlyo",
+            "scriptures": ["John 4:24", "Luke 24:29", "Psalms 90:2"]
+          },
+          {
+            "answer": "b. Ngại nì mũmbi. Niwoombie syîndū syonthe na ndeto sya utonyi Wake. Nisyoombiwe na ti kuma kwa syindū ila svonekaa na metho.",
+            "scriptures": ["Genesis 1:1", "Hebrews 11:3", " John 1:3"]
+          },
+          {
+            "answer": "c. Ngai ni Wendo. ",
+            "scriptures": ["John 3:16", "1 John 4:8"]
+          }
+        ]
+      },
+      {
+        "question": "2. Tümanyaa ata kana Ngai nīwendete andū onthe?",
+        "answers": [
+          {
+            "answer": "Nitwisi kana Ngai niwendete andū onthe nündü niwamūtūmie Mwana Wake e ūmwe ni kana akw'e kwondū woo ni kana ala mamwītīkīlaa matonye kwithīwa na thayű ütathela. ",
+            "scriptures": ["Romans 5:8", " Luke 53:6"]
+          }
+        ]
+      },
+      {
+        "question": "3. Kwi ngai ingi eka Üsu Ümwe wa w'o?",
+        "answers": [
+          {
+            "answer": "Kwi Ngai o ūmwe üla wa w'o, üla wīkalaa thayū tene na tene. ",
+            "scriptures": ["1 Timothy 2:5", "Acts 32:29", "1 John 5:20"]
+          }
+        ]
+      },
+      {
+        "question": "4. Üngaini kwi meana?",
+        "answers": [
+          {
+            "answer": "Ve atatu Ungaini: Ngai Asa, Ngai Mwana na Ngai Veva Mütheu. Asu atatu ni Ngai ūmwe. Nimeanene ūtonyinì, vinyani na útheuni.",
+            "scriptures": ["1 Corinthians 13:14", "Matthew 3:16-17"]
           }
         ]
       }
     ]
   },
   "Kilungu 4": {
-    "MOMANYISYO IULU WA NGAI MWANA": [
+    "MOMANYISYO IŪLU WA NGAI MWANA": [
       {
-        "question": "Kuna muenyeve wa kubakana kwa mulungu miteme kundu?",
+        "question": "1. Yesū Klīsto nûû?",
         "answers": [
           {
-            "answer": "Muonyeve wa kubakana wa mulungu miteme kundu ni kujifunga na Kristu Yesu.",
-            "scriptures": ["Romans 6:4", "Philippians 3:10"]
+            "answer": "Yesū Klīsto ni Mwana wa Ngai.",
+            "scriptures": ["John 20:31", "John 1:14", "Matthew 3:16-17"]
+          }
+        ]
+      },
+      {
+        "question": "2. Ethīwa Klīsto ni Mwana wa Ngai atw'īkie mūndū ata?",
+        "answers": [
+          {
+            "answer": "Yesū Klīsto Mwana wa Ngai atw'īkie mündū kwa nzia ya kwosa mwii wa mündü ki, akīsyawa ni mwīītu Meli kwa vinya wa Veva Mütheu.",
+            "scriptures": ["Luke 1:35", "Isaiah 9:6", "Matthew 1:21"]
+          }
+        ]
+      },
+      {
+        "question": "3. Yesū Klīsto ookie kūū nthi kwika ata?",
+        "answers": [
+          {
+            "answer": "a. Nīwookie ni kana amwonany'e na Ithe Wake.",
+            "scriptures": ["John 1:18", "1 Corinthians 5:19"]
+          },
+          {
+            "answer": "b. Nīwookie nī kana amatangiie ene naï.",
+            "scriptures": ["1 Timothy 1:15", "Luke 19:10"]
+          },
+          {
+            "answer": "c. Nīwookie ni kana akw'e kwondū wa ene naî.",
+            "scriptures": ["Romans 5:6", "1 Peter 3:18"]
+          }
+        ]
+      },
+      {
+        "question": "4. Niki Ngai Mwana wendie kūtw'īka mündü?",
+        "answers": [
+          {
+            "answer": "a. Nī kana eanīsye miao.",
+            "scriptures": ["Romans 10:4", "Matthew 5:17", "Galatians 4:4-5"]
+          },
+          {
+            "answer": "b. Nī kana avingüe nzia ya kūthi kwa Ithe Wake.",
+            "scriptures": ["John 10:9", "Ephesians 2:18", "Hebrews 10:19-20"]
+          },
+          {
+            "answer": "c. Nikana amwanange Satani na mawīa make.",
+            "scriptures": ["1 John 3:8", "Hebrews 2:14", "Colossians 1:13"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 5": {
+    "MOMANYISYO IULU WA NGAI VEVA MUTHEU": [
+      {
+        "question": "1. Veva Mütheu nüü?",
+        "answers": [
+          {
+            "answer": "Veva Mütheu ni üla wa katatü Üngaini na ni Ümwe na Asa na Mwana.",
+            "scriptures": ["John 15:26", "John 14:26", "2 Corinthians 13:14"]
+          }
+        ]
+      },
+      {
+        "question": "2. Mawia ma Veva Mütheu nĩ mau?",
+        "answers": [
+          {
+            "answer": "a. Kūmīīkīīthya na kūmyony'a nthi uvoo wa naĩ, ūvoo wa ülūngalu na ŭvoo wa üsililo.",
+            "scriptures": ["John 16:8-11", "Titus 3:5"]
+          },
+          {
+            "answer": "b. Kümütongoesya mwītīkīli nthīnī wa w'o w'onthe.",
+            "scriptures": ["John 16:13", "Romans 8:14"]
+          },
+          {
+            "answer": "c. Kümütonyethya mwītīkīli kwonany'a üküsi wa ütangiio wake na wa ūla Üvoo Müseo.",
+            "scriptures": ["Acts 1:8", "John 7:38, 39", "Kuma 31:3"]
+          },
+          {
+            "answer": "d. Kümütonyethya mwītīkīlī kūmüthüküma Ngai.",
+            "scriptures": ["1 Corinthians 12:4-11", "Acts 8:29"]
+          },
+          {
+            "answer": "e. Kwīsūvana na kūmūvoyea muklīsto kwa külūma kūtatonyeka kuwetwa.",
+            "scriptures": ["Romans 8:26", "Galatians 4:6"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilüngü 6": {
+    "MOMANYĪSYO ÏÜLÜ WA MÜNDÜ": [
+      {
+        "question": "1. Mündü oombiwe ata?",
+        "answers": [
+          {
+            "answer": "Ngai niwoombie mündü na müvwano wake mwene.",
+            "scriptures": ["Genesis 1:27", "Genesis 2:7", "Matthew 19:4"]
+          }
+        ]
+      },
+      {
+        "question": "2. Ündu üla münene mbee mündü waīle kwīkaa ni mwaû?",
+        "answers": [
+          {
+            "answer": "Ni kūmwiw'a Ngai na w'o ki, na kūmūtaïa kati wa atheu.",
+            "scriptures": ["1 Samueli 15:22-23", "Micah 6:8", "Acts 16:30-31"]
+          }
+        ]
+      },
+      {
+        "question": "3. Mündü niw'o niwamwiwie Ngai Mwene Vinya Wonthe?",
+        "answers": [
+          {
+            "answer": "Aiee. Mündü vamwe na mūka wake mayaamwīw'a Ngai na nīmeekie naī yīla maie ūsyao wa mūtī ūla mavatiwe kūya; na kwa kītūmi kyu maananga müamba woo na Ngai.",
+            "scriptures": ["Mwambīlīlyo 3:6", "1 Timothy 2:14", "Romans 5:12"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilüngü 7": {
+    "MOMANYĪSYO ÎÜLÜ WA NAI": [
+      {
+        "question": "1. Naĩ nĩ myaũ?",
+        "answers": [
+          {
+            "answer": "a. Nai nì ũndū wonthe ütetikīlanaa na miao.",
+            "scriptures": ["I John 3:4", "Hebrews 2:2", "Mark 15:28"]
+          },
+          {
+            "answer": "b. Nai nī kūlea kwīanīsya ündü üla ülūngalu.",
+            "scriptures": ["Romans 3:23", "I John 5:17"]
+          },
+          {
+            "answer": "c. Undū o na wīva ūte wa mūīkīto ni nai.",
+            "scriptures": ["Romans 14:23", "Hebrews 11:6"]
+          },
+          {
+            "answer": "d. Kwa ūla wīsī kvika nesa na tiw'o wīkaa, kwa ūsu ũu nĩ nai.",
+            "scriptures": ["James 4:17", "Deutoronomy 2:1-4"]
+          }
+        ]
+      },
+      {
+        "question": "2. Ngai eekie ata ūndū wa nai sya etīkīli?",
+        "answers": [
+          {
+            "answer": "a. Ngai, niwaitw'aie vaasa nao o tondū wumīlonī wa syŭa wi vaasa na ūthūiloni.",
+            "scriptures": ["Psalms 103:12"]
+          },
+          {
+            "answer": "b. Ngai niwitūngite nai syoo ngalīko ya îtina yake.",
+            "scriptures": ["Isaiah 38:17"]
+          },
+          {
+            "answer": "c. Nīsyīkītwe ülikunĩ wa ūkanga.",
+            "scriptures": ["Micah 7:19"]
+          },
+          {
+            "answer": "d. Ngai nūmaekeete naï syonthe.",
+            "scriptures": ["Colossians 2:13"]
+          },
+          {
+            "answer": "e. Naï syoo na mothūku moo matililikanwa îngī.",
+            "scriptures": ["Hebrews 10:17"]
+          },
+          {
+            "answer": "f. Nthakame ya Yesu Klīsto nīmatheasya kwa nai syoo syonthe.",
+            "scriptures": ["I John 1:17"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 8": {
+    "MOMANYISYO IŪLU WA SATANI NA ALAIKA": [
+      {
+        "question": "1. Satani nüū?",
+        "answers": [
+          {
+            "answer": "a. Satani ni kyūmbe kyoombiwe ni Ngai ena müvw'ano wa ki-mündü ateo nde mwii ta wa mündü.",
+            "scriptures": ["Job: 1:7", "Matthew 4:3"]
+          },
+          {
+            "answer": "b. Satanī aī mūkelūvi ūtaî na îvityo mbee wa ataneka nai.",
+            "scriptures": ["Ezekiel 28:14", "Isaiah 14:12"]
+          },
+          {
+            "answer": "c. Satani nī mūnene wa mavinya ma yayaya.",
+            "scriptures": ["Ephesians 2:2", "Matthew 8:29"]
+          },
+          {
+            "answer": "d. Satani ni Ngai wa nthi îno.",
+            "scriptures": ["2 Corinthians 4:4", "Luke 4:6"]
+          },
+          {
+            "answer": "e. Satani niwe mwambīlīīlya wa nai.",
+            "scriptures": ["1 John 3:8", "Ezekiel 28:15-17"]
+          },
+          {
+            "answer": "f. Satanī ni mükenganī na nî îthe wa üvüngü.",
+            "scriptures": ["John 8:44", "2 Corinthians 11:13-14"]
+          },
+          {
+            "answer": "g. Satani ni muvinganisya wa ana-asa.",
+            "scriptures": ["Revelation 12:10", "Luke 22:31-32"]
+          }
+        ]
+      },
+      {
+        "question": "2. Satani ekalaa va?",
+        "answers": [
+          {
+            "answer": "Satanī ekalaa yayayanī, wīkalonī wa maveva mavuku, na angangaa küü na kūū.",
+            "scriptures": ["Ephesians 2:2", "Ephesians 6:12", "1 Peter 5:8"]
+          }
+        ]
+      },
+      {
+        "question": "3. Muminūkīlyo wa satani ni mwaū?",
+        "answers": [
+          {
+            "answer": "Satani akekw'a šianī ya mwaki, na vau akasilīlwa tene na tene.",
+            "scriptures": ["Revelations 20:10", "Matthew 25:41"]
+          }
+        ]
+      },
+      {
+        "question": "4. Etikili maïlwe ni kwīka ata yīla mekutatwa ni satani?",
+        "answers": [
+          {
+            "answer": "Yīla satani ünüūmatata etīkīli no mūvaka mamüsiïie katī wa muīklio.",
+            "scriptures": ["1 Peter 5:7-9", "James 4:7", "John 4:4", "John 5:4"]
+          }
+        ]
+      },
+      {
+        "question": "5. Alaika naaû?",
+        "answers": [
+          {
+            "answer": "a. Alaīka ni syūmbe sya ki-veva, syoombiwe ni Ngai, na syî na ūtonyi mwingi mbee wa andů.",
+            "scriptures": ["Hebrews 1:7", "2 Peter 2:11"]
+          },
+          {
+            "answer": "b. Alaľka atheu nimanengetwe üthükümi kana wia wa kūmatethya na kūmasüvia etikili.",
+            "scriptures": ["Hebrews 1:14", "Ndanieli 6:22", "Savull 34:7"]
+          },
+          {
+            "answer": "c. Tūtimavoyaa alaīka, na tūtimathaithaa.",
+            "scriptures": [
+              "Revelation 22:8",
+              "Revelations 19:10",
+              "Colossians 2:18"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 9": {
+    "MOMANYISYO MA ÜNDÜ MÜNDÜ ÜTILYI": [
+      {
+        "question": "1. Mündü üla ütamwītīkīlīte Klīsto ethïawa atīlyi ata mbee wa Ngai?",
+        "answers": [
+          {
+            "answer": "a. E ungu wa ūthatu wa Ngai.",
+            "scriptures": ["John 3:18, 36", "Hebrews 9:27"]
+          },
+          {
+            "answer": "b. E umaithanī na Ngai.",
+            "scriptures": [
+              "Romans 5:10",
+              "2 Corinthians 5:20, 21",
+              "Colossians 1:21"
+            ]
+          },
+          {
+            "answer": "c. Ni mwaŭ.",
+            "scriptures": ["Isaia 53:6", "Luke 19:10"]
+          },
+          {
+            "answer": "d. Nde na Ngai, o na nde na klīsto.",
+            "scriptures": ["Ephesians 2:12", "Acts 17:23, 14:16-17"]
+          }
+        ]
+      },
+      {
+        "question": "2. Ni ūseo mündü ekalae e mwau kūvika tene na tene?",
+        "answers": [
+          {
+            "answer": "Aiee. Ti ūseo kwa mündü üla üte mwitikili kwikalaa e mwau. Ngai nünenganīte nzĩa ya mündü kütangīlwa.",
+            "scriptures": ["John 3:17", "Titus 2:11,13", "Romans 5:1,2"]
+          }
+        ]
+      },
+      {
+        "question": "3. Mündü atonya kūtangīiwa ata?",
+        "answers": [
+          {
+            "answer": "Mündü atonya kütangīiwa na nthakame ya Klīsto Ila yetikie nthi. Vate kwitika nthakame vatii üekeo wa nař.",
+            "scriptures": ["Hebrews 9:22", "Ephesians 1:7", "Leviticus 17:11"]
+          }
+        ]
+      },
+      {
+        "question": "4. Mündü atonya ata kütw'ikithw'a mülüngalu mbee wa Ngai?",
+        "answers": [
+          {
+            "answer": "Ni wia wa Ngai kwa üla Ümwitikilaa Kiisto kümütwikithya atailiilika ündü.",
+            "scriptures": ["Romans 3:26", "Jude 24,25"]
+          }
+        ]
+      },
+      {
+        "question": "5. Mündü atw'ikithaw'a mülüngalü ata?",
+        "answers": [
+          {
+            "answer": "Yila mündü wamina kūmwitikila Klīsto ethiwe mütangili wake, atw'ikithaw'a mütheu kwa nzia ii:",
+            "scriptures": []
+          },
+          {
+            "answer": "a. Kwa mumo wa Ngai.",
+            "scriptures": ["Titus 3:7"]
+          },
+          {
+            "answer": "b. Kwa nthakame ya Klīsto.",
+            "scriptures": ["Romans 5:9", "I John 1:7"]
+          },
+          {
+            "answer": "c. Kwa nzĩa ya muikiio wake mwene.",
+            "scriptures": ["Galatians 3:26", "Romans 1:16-17"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 10": {
+    "MOMANYISYO ÜNDÜ WA UALYŰLO WA NGOO": [
+      {
+        "question": "1. Ualyūlo wa ngoo nĩ mwaũ?",
+        "answers": [
+          {
+            "answer": "a. Kwa mündű üla üte mwītīkīli ni kümwelekela Ngai na kūtia naï, na kūmwītīkīla Yesu Klisto.",
+            "scriptures": ["I Thessalonians 1:9-10", "Acts 14:15"]
+          },
+          {
+            "answer": "b. Üalyŭlo wa ngoo kwa mwitikili ni küsyoka mwīkalonī üla waï naw'o mbee; amina kümwītīkīla Klīsto.",
+            "scriptures": [
+              "Revelation 2:5",
+              "Revelation 3:3",
+              "Revelation 19:1",
+              "Acts 8:22"
+            ]
+          }
+        ]
+      },
+      {
+        "question": "2. Ni művaka andū ala mate etīkili kūalyūla ngoo na kūwītīkīla Üvoo Museo?",
+        "answers": [
+          {
+            "answer": "II, nündü Ngai niweaïie kwīthiwe ŭalyūlo wa ngoo.",
+            "scriptures": ["Acts 17:30", "Acts 20:21"]
+          }
+        ]
+      },
+      {
+        "question": "3. Ni kyaŭ kila kitongoeasya mündü küvika ŭalyūlo wa ngoo wa w'o?",
+        "answers": [
+          {
+            "answer": "a. Kwa üla üte mwītīkīli atongoeaw'a ni mumo wa Ngai.",
+            "scriptures": ["Romans 2:4", "2 Peter 3:9"]
+          },
+          {
+            "answer": "b. Kwa mwitikili ni Ukany'o wa Ngai.",
+            "scriptures": [
+              "Revelation 3:19",
+              "2 Corinthians 7:9,11",
+              "Hebrews 12:5-11"
+            ]
+          }
+        ]
+      },
+      {
+        "question": "4. Mosyao ma üalyūko wa ngoo wa w'o ni mau?",
+        "answers": [
+          {
+            "answer": "a. Mündū üla ûte mwitikili Alyūla ngoo na kūmwitikila Klisto nīwosaa ŭekeo wa mavityo na müthīnzio wa Veva Mütheu.",
+            "scriptures": ["Acts 2:38", "Acts 16:31"]
+          },
+          {
+            "answer": "b. Mwitikili üla üalyūlaa ngoo na kūmüsyokea Mwiaïi ni wonaa ūtanu na müamba kyeninī kya Klīsto.",
+            "scriptures": ["I John 1:7-9", "2 Corinthians 7:10", "Psalms 51"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 11": {
+    "MOMANYĪSYO ÎÜLÜ WA MŨIKIIO": [
+      {
+        "question": "1. Müikiio ni mwaû?",
+        "answers": [
+          {
+            "answer": "a. Mūikiio ni kwītīkīla vate nzika kana Ngai akeanīsya Ndeto Yake.",
+            "scriptures": ["Hebrews 11:1", "John 4:46-53"]
+          },
+          {
+            "answer": "b. Müikīioni ni müthīnzio wa Ngai.",
+            "scriptures": ["Ephesians 2:8", "Yuta 3", "Romans 10:17"]
+          }
+        ]
+      },
+      {
+        "question": "2. Tūtonya ata kūmanya kana twi na mūīkīio wa w'o?",
+        "answers": [
+          {
+            "answer": "Muikiio wa w'o niwiyonanasya nthini wa meko maseo.",
+            "scriptures": [
+              "James 2:22",
+              "Galatians 5:18-23",
+              "1 Athesalonika 1:9-10"
+            ]
+          }
+        ]
+      },
+      {
+        "question": "4. Niki ni ündü wa vata kwa mūklīsto kwikaa meko maseo?",
+        "answers": [
+          {
+            "answer": "a. Ni ündū wa vata kwa Mūklīsto kwīkaa meko maseo nündū nimo matumaa muikiio wianiw'a.",
+            "scriptures": [
+              "2 Peter 1:5-8",
+              "Titus 3:7-8",
+              "Titus 3:14",
+              "James 2:22"
+            ]
+          },
+          {
+            "answer": "b. Vate meko maseo kuitonyeka kūvathūkany'a kana kümanya muikīio wa w'o.",
+            "scriptures": ["James 2:26", "Titus 1:16", "Matthew 7:24-27"]
+          }
+        ]
+      },
+      {
+        "question": "4. Niki meko maseo mate ma müīkio nthini wa klīsto matimwendeeasya Ngai?",
+        "answers": [
+          {
+            "answer": "Nündü vate muikio kuitonyeka kümwendeesya Ngai.",
+            "scriptures": ["Hebrews 11:6", "Romans 4:5", "1 Samuel 15:22"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 12": {
+    "MOMANYISYO ÏÜLÜ WA ÜSYAO MWEŬ": [
+      {
+        "question": "1. Üsyao mweŭ ni mwaŭ?",
+        "answers": [
+          {
+            "answer": "Üsyao mweŭ ni wĩa wa veva Mütheû nthini wa Müklisto, üla kwondū waw'o niwumaw'a naini na kīkw'unī na külikw'a thayūnī.",
+            "scriptures": ["Titus 3:5", "I Peter 1:23", "John 1:12", "13"]
+          }
+        ]
+      },
+      {
+        "question": "2. Nomüvaka Mündü asyawe îngī?",
+        "answers": [
+          {
+            "answer": "a. Îi. Mūvaka mündü asyawe îngî. Ate müsyae ya keli Ndatonya kwona ūsumbi wa Ngai.",
+            "scriptures": ["John 3:3", "Matthew 18:3"]
+          },
+          {
+            "answer": "b. Vate kūsyawa îngi mündü ni wa mwii na ndatonya kümwendeesya Ngai.",
+            "scriptures": ["Romans 8:8", "1 John 5:4"]
+          }
+        ]
+      },
+      {
+        "question": "3. Mündü asyaawa îngî ata?",
+        "answers": [
+          {
+            "answer": "Mündü asyaawa îngi ni Ngai nthini wa Veva Mütheu Ndetoni ya Ngai amina kwītīkila Yesu Klisto.",
+            "scriptures": ["I Peter 1:23", "James 1:18", "I John 5:1"]
+          }
+        ]
+      },
+      {
+        "question": "4. Kwikikāa ata îtina wa üsyao mweŭ?",
+        "answers": [
+          {
+            "answer": "a. Mwītīkili amina kūsyawa îngî nūthaaw'a kuma mwiaoni wa nai na kikw'u.",
+            "scriptures": ["Romans 8:2", "1 Peter 1:18", "Romans 6:1", "2,14"]
+          },
+          {
+            "answer": "b. Nütw'īkīthaw'a kyūmbe kyeü.",
+            "scriptures": ["II Corinthians 5:17", "Ephesians 4:22-24"]
+          },
+          {
+            "answer": "c. Üla üsyaïtwe nĩ Ngai ndaendeeaa na kwikalaa naīnī.",
+            "scriptures": ["I John 3:9", "I John 5:4-5", "1 John 4:18"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 13": {
+    "MOMANYISYO IOLÜ WA KUNYAI KYA ÚVOO MÜSEO": [
+      {
+        "question": "1. Uvoo müseo ni mwaŭ?",
+        "answers": [
+          {
+            "answer": "Üvoo mūseo ni üküsi kana Klīsto nīwakwie nündü wa nai sitū, na niwathikiwe na athayűūka kuma kwa akw'ü muthenyani wa katatu kwïanana na Maandiko.",
+            "scriptures": ["I Corinthians 15:3,4", "Acts 8:32, 33, 35"]
+          }
+        ]
+      },
+      {
+        "question": "2. Üvoo Museo ni waaŭ?",
+        "answers": [
+          {
+            "answer": "Üvoo museo ni wa andü onthe ma mbaï syonthe.",
+            "scriptures": ["Maliko 16:15", "Acts 1:8", "Luke 24:47"]
+          }
+        ]
+      },
+      {
+        "question": "3. Kwithiawa ata kwa ala mawosa na kūwītīkīla Üvoo Müseo?",
+        "answers": [
+          {
+            "answer": "Ala mawītīkīlaa Üvoo Museo nīmatangīlawa, nündü Üvoo Museo nĩ vinya wa Ngai üla ütangiiaa kila ümwe üla wītīkīlaa.",
+            "scriptures": ["Romans 1:16", "Acts 16:31", "John 6:47"]
+          }
+        ]
+      },
+      {
+        "question": "4. Kwithïawa ata kwa ala maleaa Üvoo Mūseo?",
+        "answers": [
+          {
+            "answer": "Nīmaaa, na kianda kyoo kikeethīwa Tiani ya Mwaki.",
+            "scriptures": [
+              "Revelation 21:8",
+              "John 3:36",
+              "I Athesalonika 1:8,9"
+            ]
+          }
+        ]
+      },
+      {
+        "question": "5. Ala metīkīlaa Üvoo Müseo nīmaïlwe nī kūūtavany'a?",
+        "answers": [
+          {
+            "answer": "Îī, ala metīkīlaa Üvoo mūseo nīmaïlwe nī kūūtavany'a. Vaulo aisye, 'woo ni wakwa ethiwa ndiutavany`a uvoo museo",
+            "scriptures": [
+              "1 Corinthians 9:16",
+              "Romans 1:14",
+              "Romans 14:20",
+              "Acts 8:4",
+              "Acts 11:19-21"
+            ]
+          }
+        ]
+      },
+      {
+        "question": "6. Ni nziani myaū Aklīsto matonya kütetheesya ündü wa kūnyalīkya Üvoo Müseo?",
+        "answers": [
+          {
+            "answer": "a. Nīmatonya ūmatwala Üvoo mūseo ala mataamba kūwiw'a.",
+            "scriptures": ["Matthew 28:19, 20", "Acts 13:2, 3"]
+          },
+          {
+            "answer": "b. Nimatonya kümūvoya mwľali wa ngetha ni kana atüme athükümi ngethant Yake.",
+            "scriptures": ["Luke 10:2", "Aevaso 6:19"]
+          },
+          {
+            "answer": "c. Nīmatonya künengane mithīnzio na syindŭ syoo wiani wa Mwiali.",
+            "scriptures": ["Avilivi 4:15-17", "111 John 5-8"]
+          },
+          {
+            "answer": "d. Nīmatonya kümütetheesya mütongoi wa Ikanisa yoo kwa kütwikīla vamwe na kūkwatīña wia wa kūtavany'a Üvoo Mūseo kūla kwalanītwe ni Ikanisa yoo.",
+            "scriptures": [
+              "1 Athesalonika 1:8",
+              "Luke 10:29-37",
+              "Acts 1:8",
+              "10:34"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 14": {
+    "MOMANYISYO ÜNDÜ WA MOMANYISYO MA ÜVŨNGŨ": [
+      {
+        "question": "1. Niw'o ati kwi nguthu nyingi sya mothaithi ite sya w'o?",
+        "answers": [
+          {
+            "answer": "Mbivilia nīımanyīasya kana kūkeethīwa amanyīs ya ma üvüngü na mothaithi ma üvüngü.",
+            "scriptures": ["1 John 4:1", "11 John 7,10,11", "1 Timothy 4:1-3"]
+          }
+        ]
+      },
+      {
+        "question": "2. Mūklīsto atonya kūmamanya ata momanisyo ma üvūngů?",
+        "answers": [
+          {
+            "answer": "Nūtonya kūmamanya momanyīsyo ma üvüngū kwa nzia ya kūmathimany'a na momanyisyo manene ala me Maandikoni.",
+            "scriptures": []
+          },
+          {
+            "answer": "a. Momanyīsyo ma üvüngü maimūnenevasya kana kūmūtaia Klisto na wia Wake wa ngelan'yo.",
+            "scriptures": ["1 Corinthians 2:2", "11 John 7,10"]
+          },
+
+          {
+            "answer": "b. Momanyisyo ma üvüngü matineenaa ūvoo wa nthembo ya nthakame kwondū wa nai.",
+            "scriptures": ["Yuta 4", "Hebrews 9:22"]
+          },
+          {
+            "answer": "c. Momanyīsyo ma üvūngū nīmataiaa mbee maandiko ma kimūndů na matitaïaa Mbivilia.",
+            "scriptures": ["11 Timothy 3:14-16", "1:13"]
+          },
+          {
+            "answer": "d. Momanyīsyo ma üvüngū matimūtavanasya Klīsto ta o we weka mwiw'anīthya wa andū na Ngai.",
+            "scriptures": ["I Timothy 2:5"]
+          }
+        ]
+      },
+      {
+        "question": "3. Müklisto atonya ata kwithīwa wa ütethyo kwa mündü üla ütw'ikite müatīši wa üvüngü?",
+        "answers": [
+          {
+            "answer": "a. Mūklisto ndailwe ni küteta kana kükanania namo.",
+            "scriptures": ["11 Timothy 2:24-26"]
+          },
+          {
+            "answer": "b. Mūklīsto ndaïlwe ni kwithiwa na müamba nao maündūnī ma üthaithi.",
+            "scriptures": ["11 Timothy 3:1-5"]
+          },
+          {
+            "answer": "c. Mūklīsto nūtonya kwithiwa mümanyīsya woo, kana kūneena namo Úvoo Mûseo wa ūsyao mweŭ.",
+            "scriptures": ["11 Timothy 2:24", "John 3:3", "5-8"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 15": {
+    "MOMANYĪSYO ÎÜLÜ WA MBOYA": [
+      {
+        "question": "1. Mboya ni myau?",
+        "answers": [
+          {
+            "answer": "Kwa Mūklisto mboya ni kūmwitya Ngai, e na wikwatyo wa kwosa kila wavoya.",
+            "scriptures": ["Avilivi 4:6", "Matthew 7:7", "John 15:7"]
+          }
+        ]
+      },
+      {
+        "question": "2. Etikili maile ni kümūvoya ūū?",
+        "answers": [
+          {
+            "answer": "Etikili maïlwe ni kūmūvoya Ngai Asa, syitwani ya Yesü Klisto makitonyethwa ni Veva Mütheu.",
+            "scriptures": ["John 14:13", "Romans 8:26", "Luke 11:2-4"]
+          }
+        ]
+      },
+      {
+        "question": "3. Ngai niwiw'aa mboya syonthe?",
+        "answers": [
+          {
+            "answer": "Aiee. Ngai ndew'aa mboya sya:",
+            "scriptures": []
+          },
+
+          {
+            "answer": "a. Andū ala metusaa ene alūngalu.",
+            "scriptures": ["Luke 18:9", "John 14:14"]
+          },
+          {
+            "answer": "b. Andū ala mavithaa nai ngooni syoo.",
+            "scriptures": ["Savull 66:18", "1 John 3:21,22"]
+          },
+          {
+            "answer": "c. Andū ala mate na müikiio.",
+            "scriptures": ["Matthew 21:22", "1 John 5:14,15"]
+          },
+          {
+            "answer": "d. Andū ala matuaa naini.",
+            "scriptures": ["Isaiah 59:2", "James 4:3"]
+          },
+          {
+            "answer": "e. Andu ala mate na thayū wa küekeania.",
+            "scriptures": ["Mark 11:25", "Matthew 18:21-22", "Matthew 18:35"]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 16": {
+    "MOMANYISYO ÎÜLÜ WA UTHAYŪŪKYO": [
+      {
+        "question": "1. Küthayūūkw'a kuma kwa akw'u ni kwaŭ?",
+        "answers": [
+          {
+            "answer": "Küthayūūkwa kuma kwa akw'ū, kwīanana na Maandiko, nī īvinda yīla mwĩi wa mündü mükw'ū wathayūūkw'a na kwikala thayū îngî.",
+            "scriptures": ["John 11:44", "Luke 8:52-56", "Luke 7:11-15"]
+          }
+        ]
+      },
+      {
+        "question": "2. Yesū Klisto niwathayūūkie kuma kwa akw'u?",
+        "answers": [
+          {
+            "answer": "Îi. Yesū Klisto niwathikiwe, na athayūūka kuma kwa akw'ū kwianana na maandiko.",
+            "scriptures": ["1 Corinthians 15:4-6", "Luke 24:5,6,46"]
+          }
+        ]
+      },
+      {
+        "question": "3. Mii ya Aklīsto ala makwie îkeekwa ata?",
+        "answers": [
+          {
+            "answer": "Mii ya Aklīsto ala makwie īkathayūūkw'a yīla Klīsto wīūka kwisia īkanisa yake na makeethiwa mavwanene na mwii wake mütheu.",
+            "scriptures": [
+              "Avilivi 3:20,21",
+              "1 Corinthians 15:51",
+              "Romans 8:17,18"
+            ]
+          }
+        ]
+      },
+      {
+        "question": "4. Mii ya ala matetikīlīte īkathayūūkw'a?",
+        "answers": [
+          {
+            "answer": "li. Ala makwie matetikīlīte makathayūūkw'a itina, kwoondū wa kwikw'a îiani ya mwaki.",
+            "scriptures": [
+              "Revelation 20:12-15",
+              "Revelation 21:8",
+              "Romans 6:24"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 17": {
+    "MOMANYĪSYO ÏÜLÜ WA MAÛNDŪ ALA MAKOKA": [
+      {
+        "question": "1. Yesù nūkoka îngì?",
+        "answers": [
+          {
+            "answer": "li. Yesū Klīsto nūkoka îngi.",
+            "scriptures": []
+          },
+          {
+            "answer": "a. Mbee, yayayani ni kana ose īkanisa yake.",
+            "scriptures": [
+              "1 Athesalonika 4:16,17",
+              "John 14:3",
+              "Revelation 3:10"
+            ]
+          },
+          {
+            "answer": "b. Itina akatheea küü mhi vamwe na atheu Make, ala nimo Tkanisa.",
+            "scriptures": ["1 Athesalonika 3:13", "11 Athesalonika 1.10"]
+          }
+        ]
+      },
+      {
+        "question": "2. Yila Klisto wiuka kwisła Ikanisa yake ni maündü mü meikika?",
+        "answers": [
+          {
+            "answer": "a. Ala makwie nthini wa Klisto makathayūūka mbee.",
+            "scriptures": ["Athesalonika 4:16-18", "1 Corinthians 15:51,52"]
+          },
+          {
+            "answer": "b. Mii ya Aklisto ala meithiwa thayū Klisto akyūka ikaalūlwa na kümüthaüwa yayayani.",
+            "scriptures": ["1 Athesalonika 4:17", "John 5:28"]
+          },
+          {
+            "answer": "c. Ivindani yiu etikili onthe makoosa niii mitisu, myeй.",
+            "scriptures": ["Avilivi 3:20", "21:John 11:25"]
+          }
+        ]
+      },
+      {
+        "question": "3. Kükeethiwa ata kwa etikili yila methi kūtùaa na Klisto?",
+        "answers": [
+          {
+            "answer": "Makaumila mbee wa kivila kya sila kya Klisto kwondū wa kwosa matuvi kwianana na mawia ala mekie kati wa mwit.",
+            "scriptures": [
+              "2 Corinthians 5:10",
+              "1 Corinthians 3.13-15",
+              "1 Corinthians 4:5"
+            ]
+          }
+        ]
+      },
+      {
+        "question": "4. Nündü nitwisi vyü kana Klisto akooka ingi, mathayū ma Aklisto maile kwithiwa matilyi ata?",
+        "answers": [
+          {
+            "answer": "Nimaile kwithiwa makyonany 'a üküsi mavinda onthe, makisyalisya na kúvoya makika maûndů onthe kwa kiliko kianiü, makimwiw aa Ngai na kūlea motanu mathūku ma nthi.",
+            "scriptures": ["Titus 2:11-13", "2 Peter 3:11,12", "Daniel 12:3"]
+          }
+        ]
+      },
+      {
+        "question": "5. Ni maündü maû meikika Klisto amina kwosa Ikanisa yake?",
+        "answers": [
+          {
+            "answer": "a. Vakeethiwa üla ünyamao münene.",
+            "scriptures": [
+              "1 Thessalonians 5:3",
+              "Matthew 24:15",
+              "Matthew 24:21",
+              "John 9:4"
+            ]
+          },
+          {
+            "answer": "b. Itina wa ŭu Klīsto akasumbika iülü wa nthì vandů va myaka ngili imwe.",
+            "scriptures": [
+              "Revelation 20:1-6",
+              "Matthew 25:34",
+              "Acts 15:16-17",
+              "Isaiah 61:2-4"
+            ]
+          },
+          {
+            "answer": "c. Na indi akamütüngia Ithe wake Ūsumbi.",
+            "scriptures": [
+              "1 Corinthians 15:24-26",
+              "Revelation 21:22",
+              "Revelation 21:1-5"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Kilungu 18": {
+    "MOMANYISYO MA MAWALANY'O MA IKANISA": [
+      {
+        "question": "1. Mawalan'yo ma Ikanisa nī mau?",
+        "answers": [
+          {
+            "answer": "Mawalany'o ma Īkanisa nì Üvatiso na Mesa ya Mwiaii.",
+            "scriptures": []
+          }
+        ]
+      },
+      {
+        "question": "2. Üvatiso ni Mwaŭ?",
+        "answers": [
+          {
+            "answer": "Üvatiso ni wonany'o wa ūkūsi wa mwitikili mbee wa andū, akyonany'a kana nūminīte kūalyūlwa ni Veva Mütheu, na kana we etalaa mwene kwīthiwa mük'wü, akīthikwa na Klisto, na kūthayūūkw'a vamwe Nake.",
+            "scriptures": ["Romans 6:3-4", "Colossians 2:12"]
+          }
+        ]
+      },
+      {
+        "question": "3. Müamba wa Mesa ya Mwiai ni mwaŭ?",
+        "answers": [
+          {
+            "answer": "Müamba wa Mesa ya Mwiaïi nī mūamba wa vevani wa etikili; ülilikany'o wa kikw'ū kya Klīsto kūvjka yīla wīūka.",
+            "scriptures": ["1 Corinthians 10:16", "1 Corinthians 11:23-26"]
+          }
+        ]
+      },
+      {
+        "question": "4. Syindū ila syithiawa Mesanī ya Mwiali ni myau?",
+        "answers": [
+          {
+            "answer": "a. Mūkate, ngelekany'o ya ūtianïo wa mwii Wake üla wanyamaiwe.",
+            "scriptures": ["Matthew 26:26"]
+          },
+          {
+            "answer": "b. Mbinyu, ngelekany'o ya ūtianio wa nthakame yake ila yetiwe nthi.",
+            "scriptures": ["Matthew 26:27,28"]
+          }
+        ]
+      },
+      {
+        "question": "5. Mūamba üyū wa Mesa ya Mwiaïi wambiīwe indii, na wambliwe nūū?",
+        "answers": [
+          {
+            "answer": "Mūamba wa Mesa ya Mwiaïi wambiwe ni Mwiali Yesū mweneūtukūnī ula wooaïthíw'e.",
+            "scriptures": [
+              "1 Corinthians 11:23",
+              "Matthew 26:26-28",
+              "Mark 14:22-25",
+              "Luke 22:17-20"
+            ]
+          }
+        ]
+      },
+      {
+        "question": "6. Etikili ala methiawa müambani wa Mesa ya Mwiali, mailwe ni kwikalaa mathayū mailyî ata kila müthenya?",
+        "answers": [
+          {
+            "answer": "Ala methiawa mlambani wa mesa ya Mwlali me vata wa kwithiwa na müamba na Mwiali na etikili ala angi.",
+            "scriptures": ["1 Corinthians 11:18", "I John 1:17"]
           }
         ]
       }

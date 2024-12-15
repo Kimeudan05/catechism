@@ -109,7 +109,7 @@
           },
           {
             "answer": "b. E vata wa kwimanyisya na kusoma mbivilia kila muthenya.",
-            "scriptures": ["Psalms 119:9-11", "Psalms 119:105"]
+            "scriptures": ["Psalms 119:9-11, 119:105"]
           },
           {
             "answer": "c. Niwailwe ni kumanyisya kuneena misoa ya maandiko atamyene.",
@@ -129,11 +129,7 @@
           },
           {
             "answer": "g. E vata wa kwithiawa na muamba na etikili ala angi ma ikanisa.",
-            "scriptures": [
-              "1 Thessalonians 5:11",
-              "Hebrews 3:13",
-              "Hebrews 10:24-25"
-            ]
+            "scriptures": ["1 Thessalonians 5:11", "Hebrews 3:13, 10:24-25"]
           }
         ]
       },
@@ -305,7 +301,7 @@
         "answers": [
           {
             "answer": "Ngai niwoombie mündü na müvwano wake mwene.",
-            "scriptures": ["Genesis 1:27", "Genesis 2:7", "Matthew 19:4"]
+            "scriptures": ["Genesis 1:27, 2:7", "Matthew 19:4"]
           }
         ]
       },
@@ -377,7 +373,7 @@
           },
           {
             "answer": "f. Nthakame ya Yesu Klīsto nīmatheasya kwa nai syoo syonthe.",
-            "scriptures": ["I John 1:17"]
+            "scriptures": ["I John 1:7"]
           }
         ]
       }
@@ -423,7 +419,7 @@
         "answers": [
           {
             "answer": "Satanī ekalaa yayayanī, wīkalonī wa maveva mavuku, na angangaa küü na kūū.",
-            "scriptures": ["Ephesians 2:2", "Ephesians 6:12", "1 Peter 5:8"]
+            "scriptures": ["Ephesians 2:2, 6:12", "1 Peter 5:8"]
           }
         ]
       },
@@ -441,7 +437,7 @@
         "answers": [
           {
             "answer": "Yīla satani ünüūmatata etīkīli no mūvaka mamüsiïie katī wa muīklio.",
-            "scriptures": ["1 Peter 5:7-9", "James 4:7", "John 4:4", "John 5:4"]
+            "scriptures": ["1 Peter 5:7-9", "James 4:7", "John 4:4,  5:4"]
           }
         ]
       },
@@ -454,15 +450,11 @@
           },
           {
             "answer": "b. Alaľka atheu nimanengetwe üthükümi kana wia wa kūmatethya na kūmasüvia etikili.",
-            "scriptures": ["Hebrews 1:14", "Ndanieli 6:22", "Savull 34:7"]
+            "scriptures": ["Hebrews 1:14", "Daniel 6:22", "Psalms 34:7"]
           },
           {
             "answer": "c. Tūtimavoyaa alaīka, na tūtimathaithaa.",
-            "scriptures": [
-              "Revelation 22:8",
-              "Revelations 19:10",
-              "Colossians 2:18"
-            ]
+            "scriptures": ["Revelation 22:8, 19:10", "Colossians 2:18"]
           }
         ]
       }
@@ -556,12 +548,7 @@
           },
           {
             "answer": "b. Üalyŭlo wa ngoo kwa mwitikili ni küsyoka mwīkalonī üla waï naw'o mbee; amina kümwītīkīla Klīsto.",
-            "scriptures": [
-              "Revelation 2:5",
-              "Revelation 3:3",
-              "Revelation 19:1",
-              "Acts 8:22"
-            ]
+            "scriptures": ["Revelation 2:5, 3:3, 19:1", "Acts 8:22"]
           }
         ]
       },
@@ -570,7 +557,7 @@
         "answers": [
           {
             "answer": "II, nündü Ngai niweaïie kwīthiwe ŭalyūlo wa ngoo.",
-            "scriptures": ["Acts 17:30", "Acts 20:21"]
+            "scriptures": ["Acts 17:30, 20:21"]
           }
         ]
       },
@@ -596,7 +583,7 @@
         "answers": [
           {
             "answer": "a. Mündū üla ûte mwitikili Alyūla ngoo na kūmwitikila Klisto nīwosaa ŭekeo wa mavityo na müthīnzio wa Veva Mütheu.",
-            "scriptures": ["Acts 2:38", "Acts 16:31"]
+            "scriptures": ["Acts 2:38, 16:31"]
           },
           {
             "answer": "b. Mwitikili üla üalyūlaa ngoo na kūmüsyokea Mwiaïi ni wonaa ūtanu na müamba kyeninī kya Klīsto.",
@@ -617,7 +604,7 @@
           },
           {
             "answer": "b. Müikīioni ni müthīnzio wa Ngai.",
-            "scriptures": ["Ephesians 2:8", "Yuta 3", "Romans 10:17"]
+            "scriptures": ["Ephesians 2:8", "Jude 3", "Romans 10:17"]
           }
         ]
       },
@@ -629,7 +616,7 @@
             "scriptures": [
               "James 2:22",
               "Galatians 5:18-23",
-              "1 Athesalonika 1:9-10"
+              "1 Thessalonians 1:9-10"
             ]
           }
         ]
@@ -639,12 +626,7 @@
         "answers": [
           {
             "answer": "a. Ni ündū wa vata kwa Mūklīsto kwīkaa meko maseo nündū nimo matumaa muikiio wianiw'a.",
-            "scriptures": [
-              "2 Peter 1:5-8",
-              "Titus 3:7-8",
-              "Titus 3:14",
-              "James 2:22"
-            ]
+            "scriptures": ["2 Peter 1:5-8", "Titus 3:7-8", "3:14", "James 2:22"]
           },
           {
             "answer": "b. Vate meko maseo kuitonyeka kūvathūkany'a kana kümanya muikīio wa w'o.",
@@ -670,7 +652,7 @@
         "answers": [
           {
             "answer": "Üsyao mweŭ ni wĩa wa veva Mütheû nthini wa Müklisto, üla kwondū waw'o niwumaw'a naini na kīkw'unī na külikw'a thayūnī.",
-            "scriptures": ["Titus 3:5", "I Peter 1:23", "John 1:12", "13"]
+            "scriptures": ["Titus 3:5", "I Peter 1:23", "John 1:12-13"]
           }
         ]
       },
@@ -701,7 +683,7 @@
         "answers": [
           {
             "answer": "a. Mwītīkili amina kūsyawa îngî nūthaaw'a kuma mwiaoni wa nai na kikw'u.",
-            "scriptures": ["Romans 8:2", "1 Peter 1:18", "Romans 6:1", "2,14"]
+            "scriptures": ["Romans 8:2", "1 Peter 1:18", "Romans 6:1, 2,14"]
           },
           {
             "answer": "b. Nütw'īkīthaw'a kyūmbe kyeü.",
@@ -752,7 +734,7 @@
             "scriptures": [
               "Revelation 21:8",
               "John 3:36",
-              "I Athesalonika 1:8,9"
+              "I Thessalonians 1:8,9"
             ]
           }
         ]
@@ -764,10 +746,8 @@
             "answer": "Îī, ala metīkīlaa Üvoo mūseo nīmaïlwe nī kūūtavany'a. Vaulo aisye, 'woo ni wakwa ethiwa ndiutavany`a uvoo museo",
             "scriptures": [
               "1 Corinthians 9:16",
-              "Romans 1:14",
-              "Romans 14:20",
-              "Acts 8:4",
-              "Acts 11:19-21"
+              "Romans 1:14, 14:20",
+              "Acts 8:4, 11:19-21"
             ]
           }
         ]
@@ -781,19 +761,18 @@
           },
           {
             "answer": "b. Nimatonya kümūvoya mwľali wa ngetha ni kana atüme athükümi ngethant Yake.",
-            "scriptures": ["Luke 10:2", "Aevaso 6:19"]
+            "scriptures": ["Luke 10:2", "Ephesians 6:19"]
           },
           {
             "answer": "c. Nīmatonya künengane mithīnzio na syindŭ syoo wiani wa Mwiali.",
-            "scriptures": ["Avilivi 4:15-17", "111 John 5-8"]
+            "scriptures": ["Philippians 4:15-17", "3 John 5-8"]
           },
           {
             "answer": "d. Nīmatonya kümütetheesya mütongoi wa Ikanisa yoo kwa kütwikīla vamwe na kūkwatīña wia wa kūtavany'a Üvoo Mūseo kūla kwalanītwe ni Ikanisa yoo.",
             "scriptures": [
-              "1 Athesalonika 1:8",
+              "1 Thessalonians 1:8",
               "Luke 10:29-37",
-              "Acts 1:8",
-              "10:34"
+              "Acts 1:8, 10:34"
             ]
           }
         ]
@@ -807,7 +786,7 @@
         "answers": [
           {
             "answer": "Mbivilia nīımanyīasya kana kūkeethīwa amanyīs ya ma üvüngü na mothaithi ma üvüngü.",
-            "scriptures": ["1 John 4:1", "11 John 7,10,11", "1 Timothy 4:1-3"]
+            "scriptures": ["1 John 4:1", "2 John 7,10,11", "1 Timothy 4:1-3"]
           }
         ]
       },
@@ -820,16 +799,16 @@
           },
           {
             "answer": "a. Momanyīsyo ma üvüngü maimūnenevasya kana kūmūtaia Klisto na wia Wake wa ngelan'yo.",
-            "scriptures": ["1 Corinthians 2:2", "11 John 7,10"]
+            "scriptures": ["1 Corinthians 2:2", "2 John 7,10"]
           },
 
           {
             "answer": "b. Momanyisyo ma üvüngü matineenaa ūvoo wa nthembo ya nthakame kwondū wa nai.",
-            "scriptures": ["Yuta 4", "Hebrews 9:22"]
+            "scriptures": ["Jude 4", "Hebrews 9:22"]
           },
           {
             "answer": "c. Momanyīsyo ma üvūngū nīmataiaa mbee maandiko ma kimūndů na matitaïaa Mbivilia.",
-            "scriptures": ["11 Timothy 3:14-16", "1:13"]
+            "scriptures": ["2 Timothy 3:14-16, 1:13"]
           },
           {
             "answer": "d. Momanyīsyo ma üvüngū matimūtavanasya Klīsto ta o we weka mwiw'anīthya wa andū na Ngai.",
@@ -842,15 +821,15 @@
         "answers": [
           {
             "answer": "a. Mūklisto ndailwe ni küteta kana kükanania namo.",
-            "scriptures": ["11 Timothy 2:24-26"]
+            "scriptures": ["2 Timothy 2:24-26"]
           },
           {
             "answer": "b. Mūklīsto ndaïlwe ni kwithiwa na müamba nao maündūnī ma üthaithi.",
-            "scriptures": ["11 Timothy 3:1-5"]
+            "scriptures": ["2 Timothy 3:1-5"]
           },
           {
             "answer": "c. Mūklīsto nūtonya kwithiwa mümanyīsya woo, kana kūneena namo Úvoo Mûseo wa ūsyao mweŭ.",
-            "scriptures": ["11 Timothy 2:24", "John 3:3", "5-8"]
+            "scriptures": ["2 Timothy 2:24", "John 3:3, 5-8"]
           }
         ]
       }
@@ -863,7 +842,7 @@
         "answers": [
           {
             "answer": "Kwa Mūklisto mboya ni kūmwitya Ngai, e na wikwatyo wa kwosa kila wavoya.",
-            "scriptures": ["Avilivi 4:6", "Matthew 7:7", "John 15:7"]
+            "scriptures": ["Philippians 4:6", "Matthew 7:7", "John 15:7"]
           }
         ]
       },
@@ -946,11 +925,7 @@
         "answers": [
           {
             "answer": "li. Ala makwie matetikīlīte makathayūūkw'a itina, kwoondū wa kwikw'a îiani ya mwaki.",
-            "scriptures": [
-              "Revelation 20:12-15",
-              "Revelation 21:8",
-              "Romans 6:24"
-            ]
+            "scriptures": ["Revelation 20:12-15, 21:8", "Romans 6:24"]
           }
         ]
       }
@@ -968,31 +943,31 @@
           {
             "answer": "a. Mbee, yayayani ni kana ose īkanisa yake.",
             "scriptures": [
-              "1 Athesalonika 4:16,17",
+              "1 Thessalonians 4:16,17",
               "John 14:3",
               "Revelation 3:10"
             ]
           },
           {
-            "answer": "b. Itina akatheea küü mhi vamwe na atheu Make, ala nimo Tkanisa.",
-            "scriptures": ["1 Athesalonika 3:13", "11 Athesalonika 1.10"]
+            "answer": "b. Itina akatheea küü mhi vamwe na atheu Make, ala nimo Ikanisa.",
+            "scriptures": ["1 Thessalonians 3:13", "2 Thessalonians 1:10"]
           }
         ]
       },
       {
-        "question": "2. Yila Klisto wiuka kwisła Ikanisa yake ni maündü mü meikika?",
+        "question": "2. Yila Klisto wiuka kwisia Ikanisa yake ni maündü mü meikika?",
         "answers": [
           {
             "answer": "a. Ala makwie nthini wa Klisto makathayūūka mbee.",
-            "scriptures": ["Athesalonika 4:16-18", "1 Corinthians 15:51,52"]
+            "scriptures": ["1 Thessalonians 4:16-18", "1 Corinthians 15:51,52"]
           },
           {
             "answer": "b. Mii ya Aklisto ala meithiwa thayū Klisto akyūka ikaalūlwa na kümüthaüwa yayayani.",
-            "scriptures": ["1 Athesalonika 4:17", "John 5:28"]
+            "scriptures": ["1 Thessalonians 4:17", "John 5:28"]
           },
           {
-            "answer": "c. Ivindani yiu etikili onthe makoosa niii mitisu, myeй.",
-            "scriptures": ["Avilivi 3:20", "21:John 11:25"]
+            "answer": "c. Ivindani yiu etikili onthe makoosa mii mitisu, myeй.",
+            "scriptures": ["Philippians 3:20", "21:John 11:25"]
           }
         ]
       },
@@ -1001,11 +976,7 @@
         "answers": [
           {
             "answer": "Makaumila mbee wa kivila kya sila kya Klisto kwondū wa kwosa matuvi kwianana na mawia ala mekie kati wa mwit.",
-            "scriptures": [
-              "2 Corinthians 5:10",
-              "1 Corinthians 3.13-15",
-              "1 Corinthians 4:5"
-            ]
+            "scriptures": ["2 Corinthians 5:10", "1 Corinthians 3.13-15, 4:5"]
           }
         ]
       },
@@ -1013,7 +984,7 @@
         "question": "4. Nündü nitwisi vyü kana Klisto akooka ingi, mathayū ma Aklisto maile kwithiwa matilyi ata?",
         "answers": [
           {
-            "answer": "Nimaile kwithiwa makyonany 'a üküsi mavinda onthe, makisyalisya na kúvoya makika maûndů onthe kwa kiliko kianiü, makimwiw aa Ngai na kūlea motanu mathūku ma nthi.",
+            "answer": "Nimaile kwithiwa makyonany'a üküsi mavinda onthe, makisyalisya na kúvoya makika maûndů onthe kwa kiliko kianiü, makimwiw aa Ngai na kūlea motanu mathūku ma nthi.",
             "scriptures": ["Titus 2:11-13", "2 Peter 3:11,12", "Daniel 12:3"]
           }
         ]
@@ -1025,8 +996,7 @@
             "answer": "a. Vakeethiwa üla ünyamao münene.",
             "scriptures": [
               "1 Thessalonians 5:3",
-              "Matthew 24:15",
-              "Matthew 24:21",
+              "Matthew 24:15, 21",
               "John 9:4"
             ]
           },
@@ -1041,11 +1011,7 @@
           },
           {
             "answer": "c. Na indi akamütüngia Ithe wake Ūsumbi.",
-            "scriptures": [
-              "1 Corinthians 15:24-26",
-              "Revelation 21:22",
-              "Revelation 21:1-5"
-            ]
+            "scriptures": ["1 Corinthians 15:24-26", "Revelation 21:22, 1-5"]
           }
         ]
       }
